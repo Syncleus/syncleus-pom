@@ -381,6 +381,13 @@
                         <linkJavadoc>true</linkJavadoc>
                     </configuration>
                 </plugin>
+                <plugin>
+                    <groupId>org.jacoco</groupId>
+                    <artifactId>jacoco-maven-plugin</artifactId>
+                    <!-- we need to skip 0.7.5.201505241946 as it produces a known bug with SonarQube v3.3-->
+                    <!--http://jira.sonarsource.com/browse/SONARJAVA-1091-->
+                    <version>0.7.4.201502262128</version>
+                </plugin>
             </plugins>
         </pluginManagement>
 
