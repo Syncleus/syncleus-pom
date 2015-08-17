@@ -23,7 +23,7 @@
 
     <groupId>com.syncleus</groupId>
     <artifactId>syncleus</artifactId>
-    <version>2-SNAPSHOT</version>
+    <version>3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Syncleus</name>
