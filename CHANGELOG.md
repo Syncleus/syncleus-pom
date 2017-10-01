@@ -1,5 +1,7 @@
 # Syncleus POM Changelog
 
+## v6
+
 ## v5
 
 * Removed some obsolete dependency excludes.
