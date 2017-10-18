@@ -39,14 +39,6 @@
         <url>http://www.syncleus.com</url>
     </organization>
 
-    <licenses>
-        <license>
-            <name>Open Source Community License - Type C version 1.0 or later</name>
-            <url>http://wiki.syncleus.com/images/3/3b/Oscl-c.txt</url>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>
-
     <mailingLists>
         <mailingList>
             <name>Syncleus Announcements</name>
@@ -66,7 +58,7 @@
 
     <!-- Not inherited -->
     <prerequisites>
-        <maven>3.0</maven>
+        <maven>3.0.4</maven>
     </prerequisites>
 
     <scm>
