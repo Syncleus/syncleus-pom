@@ -2,6 +2,9 @@
 
 ## v6
 
+* Minimum maven version required is now 3.0.4
+* Removed license decleration.
+
 ## v5
 
 * Removed some obsolete dependency excludes.
