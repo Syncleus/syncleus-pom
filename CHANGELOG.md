@@ -1,5 +1,7 @@
 # Syncleus POM Changelog
 
+## v7
+
 ## v6
 
 * Minimum maven version required is now 3.0.4
