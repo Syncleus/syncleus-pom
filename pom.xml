@@ -23,7 +23,7 @@
 
     <groupId>com.syncleus</groupId>
     <artifactId>syncleus</artifactId>
-    <version>6-SNAPSHOT</version>
+    <version>6</version>
     <packaging>pom</packaging>
 
     <name>Syncleus</name>
@@ -73,6 +73,7 @@
         <connection>scm:git:http://gerrit.syncleus.com/syncleus-pom</connection>
         <developerConnection>scm:git:ssh://gerrit.syncleus.com:29418/syncleus-pom</developerConnection>
         <url>http://gerrit.syncleus.com/syncleus-pom</url>
+        <tag>v6</tag>
     </scm>
 
     <developers>
