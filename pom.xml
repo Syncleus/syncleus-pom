@@ -229,6 +229,7 @@
                         <sourcepath>src/main/java/</sourcepath>
                         <show>public</show>
                         <failOnError>true</failOnError>
+                        <source>8</source>
                     </configuration>
                     <executions>
                         <execution>
