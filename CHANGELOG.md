@@ -1,5 +1,14 @@
 # Syncleus POM Changelog
 
+## v8
+
+* Changed license to Apache v2
+* updated the following dependencies:
+    * org.testng:testng 7.0.0 -> 7.4.0
+    * junit:junit 4.12 -> 4.13.2
+* updated the following plugins:
+    * org.jacoco:jacoco-maven-plugin 0.8.5 -> 0.8.6
+
 ## v7
 
 * Minimum maven version required increased from 3.0.4 to 3.3.9
